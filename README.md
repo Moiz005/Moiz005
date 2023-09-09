@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Moiz005
 - I am currently studying in Fast university
+- I have learned HTML, CSS and Bootstrap
 - 🌱 I’m currently learning C++
 - 📫 Contact : moizamar777@gmail.com
 
